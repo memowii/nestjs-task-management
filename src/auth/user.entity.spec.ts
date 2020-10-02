@@ -29,3 +29,4 @@ describe('User entity', () => {
     });
   });
 });
+
